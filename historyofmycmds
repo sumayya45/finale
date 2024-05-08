@@ -1,0 +1,325 @@
+man
+   54  man man
+   55  man ls
+   56  man -f info
+   57  whatis man
+   58  whatis ls
+   59  man find
+   60  clear
+   61  ls
+   62  ls-a
+   63  ls -a
+   64  vi hello.txt
+   65  ls
+   66  vi summi.txt
+   67  cat summi.txt
+   68  vi summi.txt
+   69  cat summi.txt
+   70  clear
+   71  man ls
+   72  man ln
+   73  ln
+   74  ln --help
+   75  mkdir folder
+   76  ls
+   77  cd folder
+   78  ls
+   79  vi new.txt
+   80  ls
+   81  touch summi.txt
+   82  cat > saffu.txt
+   83  ls
+   84  cd ..
+   85  ls
+   86  cd Desktop
+   87  ls
+   88  cd folder
+   89  cd..
+   90  cd ..
+   91  cd folder
+   92  cat saffu.txt
+   93  cat summi.txt
+   94  cat >>summi.txt
+   95  cat summi.txt
+   96  cat >>summi.txt
+   97  cat summi.txt
+   98  vi summi
+   99  cat summi.txt
+  100  ls
+  101  cat summi.txt
+  102  cd ..
+  103  cd Desktop
+  104  mv */folder
+  105  mv * folder
+  106  cddd..
+  107  cd ..
+  108  cd folder
+  109  mv * Desktop/
+  110  mv summi.txt  Desktop/
+  111  cd..
+  112  cd ..
+  113  mkdir folder2
+  114  cd folder
+  115  mv summi.txt  Desktop/
+  116  mv summi.txt     folder2/
+  117  mv folder/summi.txt Desktop/
+  118  mv folder/summi.txt desktop/
+  119  mv folder/summi.txt folder2
+  120  mv folder/summi.txt ~/Desktop
+  121  pwd
+  122  mv /home/rps/folder/summi.txt 
+  123  mv /home/rps/folder/summi.txt ~/Desktop
+  124  cd ..
+  125  cd Desktop
+  126  ls
+  127  mv /home/rps/folder/saffu.txt new.txt ~/Desktop
+  128  mv /home/rps/folder/saffu.txt /home/rps/folder/new.txt ~/Desktop
+  129  mv /home/rps/folder/saffu.txt ~/Desktop
+  130  cd folder
+  131  cd ..
+  132  cd folder
+  133  ls
+  134  cat >>saffu.txt
+  135  cat >>abdul.txt
+  136  ls
+  137  cd ..
+  138  mv /home/rps/folder/saffu.txt ~/Desktop
+  139  cd folder
+  140  cat >>txtl.txt
+  141  mv /home/rps/folder/abdul.txt txtl.txt ~/Desktop
+  142  cd ..
+  143  cd Desktop
+  144  ls
+  145  cp summi.txt Downloads/
+  146  cp summi.txt ~/ Downloads
+  147  cd..
+  148  cd ..
+  149  cp summi.txt ~/ Downloads
+  150  cp /Desktop/summi.txt ~/ Downloads
+  151  cp -r /Desktop/summi.txt ~/ Downloads
+  152  cd Desktop
+  153  pwd
+  154  cp /home/rps/Desktop/summi.txt ~/ Downloads
+  155  cp /home/rps/Desktop/summi.txt ~/Downloads
+  156  cd ..
+  157  cd Downloads
+  158  ls
+  159  find -name"saffu"
+  160  find -name "saffu.txt"
+  161  find . -name "saffu.txt"
+  162  find . -name "*.txt"
+  163  cd ..
+  164  find . -name "saffu.txt"
+  165  clear
+  166  cd Desktop
+  167  ls
+  168  mkdir f1
+  169  touch one.txt
+  170  touch two.txt
+  171  touch three.txt
+  172  ls
+  173  cd f1
+  174  touch one.txt
+  175  touch two.txt
+  176  touch three.txt
+  177  ls
+  178  cat >>one.txt
+  179  cat >>two.txt
+  180  cat >>three.txt
+  181  cat three.txt
+  182  pwd
+  183  cd ..
+  184  cp -r /home/rps/Desktop f1 ~/Downloads
+  185  cd ..
+  186  cd Downloads
+  187  ls
+  188  cd f1
+  189  ls
+  190  cat one.txt
+  191  cd ..
+  192  cd Desktop
+  193  l
+  194  ls
+  195  cd ..
+  196  cd Downloads
+  197  ls
+  198  pwd
+  199  ls
+  200  man
+  201  man man
+  202  ls
+  203  cd Desktop
+  204  cd ..
+  205  mkdir trial
+  206  ls
+  207  rmdir trial
+  208  ls
+  209  cd folder
+  210  ls
+  211  cat >>summi.txt
+  212  cat summi.txt
+  213  cp -r /home/rps/folder ~/Music
+  214  cd..
+  215  cd ..
+  216  cd Music
+  217  ls
+  218  mv -r /home/rps/folder ~/Downloads
+  219  mv  /home/rps/folder ~/Downloads
+  220  cd ..
+  221  ls
+  222  cd Downloads
+  223  ls
+  224  open summi.txt
+  225  touch abdullah.txt
+  226  ls
+  227  cd..
+  228  cd ..
+  229  find abdullah.txt
+  230  find abdullah
+  231  find .-name 'abdullah.txt'
+  232  cd Downloadsssssss
+  233  cd Downloads
+  234  find .-name 'abdullah.txt'
+  235  find .-name 'f1'
+  236  history
+  237  ls
+  238  cd f1
+  239  ls
+  240  gzip one.txt
+  241  ls
+  242  gzip -k two.txt
+  243  ls
+  244  gunzip -c one.txt.gz>newname
+  245  ls
+  246  cat newname.txt
+  247  gunzip -c one.txt.gz>newname.txt
+  248  cat newname.txt
+  249  wc -c one.txt.gz
+  250  wc -c newname.txt
+  251  wc -c two.txt.gz
+  252  wc -c two.txt
+  253  echo *
+  254  echo "summi this is new type of file" >>two.txt
+  255  cat two.txt
+  256  ls -la
+  257  chmod 777 two.txt
+  258  ls -la
+  259  passwd
+  260  cd ~
+  261  sudo apt -get update
+  262  sudo apt update
+  263  sudo apt upgrade
+  264  clear
+  265  cat >> trial.txt
+  266  ls
+  267  git init
+  268  cd folder2
+  269  mv /home/rps/trial.txt ~/home/rps/folder2
+  270  mv /home/rps/ trial.txt ~/home/rps/folder2
+  271  cd ..
+  272  mv /home/rps/ trial.txt ~/home/rps/folder2
+  273  mv /home/rps/ trial.txt ~/folder2
+  274  mv trial.txt ~/folder2
+  275  mv /home/rps/trial.txt ~/folder2
+  276  mv /home/rps/ trial.txt ~/folder2
+  277  mv trial.txt /home/rps/ ~/folder2
+  278  mv trial.txt ~/folder2
+  279  history
+  280  ls
+  281  cd folder2
+  282  ls
+  283  git init
+  284  ls
+  285  ls -a
+  286  git add.
+  287  git add .
+  288  git commit -m "this is begining"
+  289  ls
+  290  cat >>summi.c
+  291  ls
+  292  cat summi.x
+  293  cat summi.c
+  294  ls
+  295  git clone https://github.com/sumayya45/demo.git
+  296  git add .
+  297  git commit -m "commiting"
+  298  git push origin main
+  299  git -v
+  300  git -version
+  301  cd..
+  302  cd ..
+  303  git -version
+  304  git --v
+  305  clear
+  306  cd ..
+  307  git --version
+  308  git clone https://github.com/sumayya45/demo.git
+  309  git status
+  310  git add .
+  311  cd folder2
+  312  git clone https://github.com/sumayya45/demo.git
+  313  git add .
+  314  git commit -m "hi"
+  315  git config --global user.name "sumayya"
+  316  git config --global user.email "sumayya.storage@gmail.com"
+  317  git commit -m "hi"
+  318  git push origin main
+  319  git branch
+  320  git push origin master
+  321  git branch -m main
+  322  git push origin main
+  323  touch bas.txt
+  324  ls
+  325  git add .
+  326  git commit -m "hi"
+  327  git branch
+  328  git push origin main
+  329  git remote -v
+  330  git remote add origin https://github.com/sumayya45/demo.git
+  331  git remote -v
+  332  git branch
+  333  git push origin main
+  334  git remote add origin https://github.com/sumayya45/practice.git
+  335  git clone https://github.com/sumayya45/practice.git
+  336  clear
+  337  cd..
+  338  cd ..
+  339  git --version
+  340  gi bash
+  341  git bash
+  342  mkdir demo
+  343  mkdir demos
+  344  ls
+  345  cd demos
+  346  git clone https://github.com/sumayya45/practice.git
+  347  cd..
+  348  cd ..
+  349  cat>>gitaccesstoken.txt
+  350  catgitaccesstoken.txt
+  351  cat gitaccesstoken.txt
+  352  cleat
+  353  clear
+  354  sudo apt update git
+  355  sudo apt install git
+  356  git --version
+  357  cd demos
+  358  git clone https://github.com/sumayya45/practice.git
+  359  git add .
+  360  ls
+  361  cat practice
+  362  cd ..
+  363  cd folder2
+  364  git clone https://github.com/sumayya45/practice.git
+  365  git branch
+  366  git add .
+  367  git commit -m "summi new chane"
+  368  git push origin main
+  369  git add .
+  370  git commit -m "summi new chaneads"
+  371  git push origin main
+  372  vi index.html
+  373  cat>>index.php
+  374  cat>>phpinfo.php
+  375  cat>>trial.html
+  376  cat trial.html
+  377  cat>>trials.html
